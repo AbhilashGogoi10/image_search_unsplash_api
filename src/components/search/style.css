@@ -1,0 +1,28 @@
+.search{
+    height: 1vh;
+    padding-top: 2px;
+   
+    
+}
+
+.searchInput{
+    padding: 10px;
+    margin: 5px;
+    width: 100%;
+    border-radius: 20px;
+    
+    
+}
+
+.searchBtn{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    color: black;
+}
+
+.searchBtn:hover{
+    background-color: rgb(188, 202, 213);
+}

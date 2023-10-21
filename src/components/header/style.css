@@ -1,0 +1,34 @@
+.header{
+    display: flex;
+   
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 8vh;
+    padding: 2px;
+    
+}
+
+.tagName{
+   
+   padding: 10px;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+   
+    font-size: 40px;
+   
+}
+
+
+.logo{
+    border-radius: 50%;
+    font-size: 1px;
+    padding-left: 10px;
+}
+
+.mode{
+    display: flex;
+    padding-left: 1200px;
+  
+
+}
